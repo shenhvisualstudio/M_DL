@@ -1,0 +1,6 @@
+F:\Visual Studio2015\shenh.visualstudio.com\M_DL\M_DL\M_DL\bin\M_YKT_Ysfw.dll.config
+F:\Visual Studio2015\shenh.visualstudio.com\M_DL\M_DL\M_DL\bin\M_YKT_Ysfw.dll
+F:\Visual Studio2015\shenh.visualstudio.com\M_DL\M_DL\M_DL\bin\M_YKT_Ysfw.pdb
+F:\Visual Studio2015\shenh.visualstudio.com\M_DL\M_DL\M_DL\obj\Release\M_YKT_Ysfw.dll
+F:\Visual Studio2015\shenh.visualstudio.com\M_DL\M_DL\M_DL\obj\Release\M_YKT_Ysfw.pdb
+F:\Visual Studio2015\shenh.visualstudio.com\M_DL\M_DL\M_DL\obj\Release\M_DL.csprojResolveAssemblyReference.cache

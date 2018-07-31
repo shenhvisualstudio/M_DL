@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJOhApe6/3kukBrQZXeQs8QAAAAACAAAAAAAQZgAAAAEAACAAAADvr6cW5spCECRtxDNHxOaRMNZmWeCoWL9Xj7uk8LK6RQAAAAAOgAAAAAIAACAAAADD0Mp1+GcnIf7EAipl4HyEOqlFBDt4zDwUPmS5g8x4KiAAAACGGIoZerWxToRHbIGK26sEgLq7qCo2VxHiQLv8JA0i0EAAAABtJ4BZ7+kcLfzlaHuzqbSjVxyGDjLZTeYveZdLbSqcXJt/W2JVpy972INDvPCCgH55clZv+ErE6tL++wIzDh/e</EncryptedPassword>
+    <_PublishTargetUrl>ftp://168.100.1.218/M_DL</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/IPortData.dll">
+      <publishTime>11/11/2016 10:25:18</publishTime>
+    </File>
+    <File Include="bin/log4net.dll">
+      <publishTime>11/11/2016 10:25:20</publishTime>
+    </File>
+    <File Include="bin/M_DLL_Leo.dll">
+      <publishTime>06/10/2017 16:30:51</publishTime>
+    </File>
+    <File Include="bin/M_YKT_Ysfw.dll">
+      <publishTime>04/19/2018 16:40:00</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>04/19/2018 09:40:40</publishTime>
+    </File>
+    <File Include="Properties/DataSources/System.Data.DataTable.datasource">
+      <publishTime>02/27/2017 16:26:39</publishTime>
+    </File>
+    <File Include="Service/Crane/GetCraneAllInfo.aspx">
+      <publishTime>04/19/2018 16:39:58</publishTime>
+    </File>
+    <File Include="Service/Crane/GetCraneAlllnfo.aspx">
+      <publishTime>04/19/2018 16:28:42</publishTime>
+    </File>
+    <File Include="Service/Crane/UploadDataFromCrane.aspx">
+      <publishTime>04/19/2018 11:05:48</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/19/2018 16:16:30</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
